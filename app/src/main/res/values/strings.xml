@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActivityLifecycleChallenge</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="text_header">Shopping List</string>
+    <string name="button_second">Reply</string>
+    <string name="item_header">Item List</string>
+
+</resources>
